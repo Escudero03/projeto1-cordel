@@ -1,4 +1,4 @@
-# Cordel Moderno
+# Cordel Moderno  https://escudero03.github.io/projeto1-cordel/
 
 Este projeto é uma página web que apresenta o poema "Cordel Moderno" de Milton Duarte, explorando a temática da tecnologia e a nostalgia dos tempos em que a comunicação era mais pessoal.
 
